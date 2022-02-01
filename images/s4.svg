@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="206" height="63" viewBox="0 0 206 63">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.075" x2="0.977" y2="1.252" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#17171d"/>
+      <stop offset="1" stop-color="#282832"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-835 -1701)">
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(835 1701)" stroke="rgba(255,255,255,0.1)" stroke-width="1" fill="url(#linear-gradient)">
+      <rect width="206" height="63" rx="31.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="205" height="62" rx="31" fill="none"/>
+    </g>
+    <text id="YouTube" transform="translate(920 1739)" fill="#fff" font-size="17" font-family="SourceSansPro-Regular, Source Sans Pro" opacity="0.6"><tspan x="0" y="0">Youtube</tspan></text>
+    <path id="Path_7748" data-name="Path 7748" d="M31.133-18.347A3.887,3.887,0,0,0,28.4-21.1c-2.412-.651-12.085-.651-12.085-.651s-9.673,0-12.085.651a3.887,3.887,0,0,0-2.735,2.753,40.773,40.773,0,0,0-.646,7.494,40.774,40.774,0,0,0,.646,7.494A3.829,3.829,0,0,0,4.227-.651C6.639,0,16.312,0,16.312,0S25.986,0,28.4-.651a3.829,3.829,0,0,0,2.735-2.709,40.774,40.774,0,0,0,.646-7.494A40.774,40.774,0,0,0,31.133-18.347ZM13.149-6.254v-9.2l8.085,4.6Z" transform="translate(865 1744)" fill="#fff"/>
+  </g>
+</svg>
